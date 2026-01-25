@@ -16,4 +16,4 @@ Full Stack Engineer building production systems that handle complex workflows an
 🔨 Helping people achieve high business efficiency through optimized software  
 📚 Deepening system design and architecture knowledge  
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adhammarzouk) | [Portfolio](adhammarzouk.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adhammarzouk) | [Portfolio](https://adhammarzouk.com)
