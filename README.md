@@ -2,12 +2,12 @@
 
 Full Stack Engineer building production systems that handle complex workflows and scale under constraints.
 
-###🏗️ What I Build
+### 🏗️ What I Build
 - **Enterprise ERPs** with offline-first sync across distributed warehouses
 - **Geospatial applications** optimized for low-resource environments
 - **E-stores** with custom functionalities and integrations
 
-###💻 Tech Stack
+### 💻 Tech Stack
 **Backend:** Node.js, Express, MongoDB, PostgreSQL  
 **Frontend:** React, Next.js, Electron  
 **DevOps:** AWS, Docker, IaC, CI/CD  
