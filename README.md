@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Adham 👋
 
-<!--
-**AdhamMarzouk/AdhamMarzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer building production systems that handle complex workflows and scale under constraints.
 
-Here are some ideas to get you started:
+### What I Build
+- **Enterprise ERPs** with offline-first sync across distributed warehouses
+- **Geospatial applications** optimized for low-resource environments
+- **E-stores** with custom functionalities and integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Backend:** Node.js, Express, MongoDB, PostgreSQL  
+**Frontend:** React, Next.js, Electron  
+**DevOps:** AWS, Docker, IaC, CI/CD  
+
+### Currently
+🔨 Helping people achieve high business efficiency through optimized software  
+📚 Deepening system design and architecture knowledge  
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adhammarzouk) | [Portfolio](adhammarzouk.com)
