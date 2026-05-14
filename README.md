@@ -1,6 +1,6 @@
 ## Hey, I'm Adham 👋
 
-Full Stack Engineer building production systems that handle complex workflows and scale under constraints.
+Software Engineer building production systems that handle complex workflows and scale under constraints.
 
 ### 🏗️ What I Build
 - **Enterprise ERPs** with offline-first sync across distributed warehouses
